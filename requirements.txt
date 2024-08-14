@@ -11,3 +11,7 @@ pycm
 pandas
 plotly
 dash_dangerously_set_inner_html
+streamlit
+opencv-python
+imutils
+numpy
