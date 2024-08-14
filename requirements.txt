@@ -12,6 +12,8 @@ pandas
 plotly
 dash_dangerously_set_inner_html
 streamlit
-opencv-python
+opencv-python-headless
 imutils
 numpy
+mediapipe
+
